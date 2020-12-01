@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+I recently found this feature by creating a repository with the same name as your user name.
 
 <!--
 **serchgiles/serchgiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
